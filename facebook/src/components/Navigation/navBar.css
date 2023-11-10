@@ -36,6 +36,7 @@
     height: 32px;
     object-fit: cover;
     border-radius: 50%;
+    margin-left: 50px;
 }
 .logo{
     font-size: 35px;
@@ -65,5 +66,15 @@
 .navBarIcons{
     display: flex;
     align-items: center;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+.iconTag{
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    color: white;
+    position: absolute;
+    border-radius: 50%;
     justify-content: center;
 }

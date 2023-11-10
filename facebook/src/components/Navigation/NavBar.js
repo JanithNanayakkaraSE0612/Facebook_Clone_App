@@ -2,8 +2,16 @@ import React from 'react'
 
 export default function NavBar() {
   return (
-    <div>
-      This is Navigation Bar
-    </div>
+    <div className="navBarBox">
+        <div className="navBarLeft">
+            <span className='logo'>Facebook</span>
+        </div>
+        <div className="navBarCenter">
+            <div className="searchBarBox">
+                
+            </div>
+        </div>
+        <div className="navBarRight"></div>
+    </div> 
   )
 }

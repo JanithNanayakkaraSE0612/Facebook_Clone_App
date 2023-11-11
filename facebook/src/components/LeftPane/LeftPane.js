@@ -56,6 +56,40 @@ export default function LeftPane() {
               <LocalGroceryStoreIcon className='leftPaneMenuIcon'/>
                <span className="leftPaneMenuText">Market</span>
           </li>
+          <hr/>
+          <div className="pagesYouLiked">
+            <h3>Pages You Liked</h3>
+          </div>
+            <div className="pageList">
+            <li className="pageListItem">
+            <img src="/images/newgenius.png" alt="" className="pagePic" />
+              <span className="pageName">newGeniusTechnology</span>
+          </li>
+          <li className="pageListItem">
+            <img src="/images/newgenius.png" alt="" className="pagePic" />
+              <span className="pageName">newGeniusTechnology</span>
+          </li>
+          <li className="pageListItem">
+            <img src="/images/newgenius.png" alt="" className="pagePic" />
+              <span className="pageName">newGeniusTechnology</span>
+          </li>
+          <li className="pageListItem">
+            <img src="/images/newgenius.png" alt="" className="pagePic" />
+              <span className="pageName">newGeniusTechnology</span>
+          </li>
+          <li className="pageListItem">
+            <img src="/images/newgenius.png" alt="" className="pagePic" />
+              <span className="pageName">newGeniusTechnology</span>
+          </li>
+          <li className="pageListItem">
+            <img src="/images/newgenius.png" alt="" className="pagePic" />
+              <span className="pageName">newGeniusTechnology</span>
+          </li>
+          <li className="pageListItem">
+            <img src="/images/newgenius.png" alt="" className="pagePic" />
+              <span className="pageName">newGeniusTechnology</span>
+          </li>
+            </div>
         </div>
       </div>
     </div>

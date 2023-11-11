@@ -9,6 +9,7 @@
 }
 .navBarLeft{
     flex: 3;
+    font-family: serif;
 }
 .navBarCenter{
     flex: 5;

@@ -89,6 +89,18 @@ export default function LeftPane() {
             <img src="/images/newgenius.png" alt="" className="pagePic" />
               <span className="pageName">newGeniusTechnology</span>
           </li>
+          <li className="pageListItem">
+            <img src="/images/newgenius.png" alt="" className="pagePic" />
+              <span className="pageName">newGeniusTechnology</span>
+          </li>
+          <li className="pageListItem">
+            <img src="/images/newgenius.png" alt="" className="pagePic" />
+              <span className="pageName">newGeniusTechnology</span>
+          </li>
+          <li className="pageListItem">
+            <img src="/images/newgenius.png" alt="" className="pagePic" />
+              <span className="pageName">newGeniusTechnology</span>
+          </li>
             </div>
         </div>
       </div>

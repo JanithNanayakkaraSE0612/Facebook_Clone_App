@@ -9,6 +9,15 @@
     margin-top: 10px;
     display: flex;
     align-items: center;
+    margin-left: 5px;
+} 
+.postTopleft{
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+}
+.postCenter{
+    margin-left: 10px;
 }
 .postUserName{
     font-size: 15px;
@@ -27,11 +36,10 @@
     border-radius: 10px;
 }
 .postedImage{
-    width: 80%;
-    height: 800px;
+    width: 90%;
+    height: 830px;
     background-size: cover;
     margin-left: 20px;
-    margin-bottom: 10px;
 }
 .postCaption{
     font-size: 20px;
@@ -48,4 +56,19 @@
     width: 98%;
     align-items: center;
     display: flex;
+    margin-left: 5px;
+    justify-content: space-between;
+}
+.postBottomleft{
+    display: flex;
+    align-items: center;
+}
+.likeCount{
+    margin-left: 5px;
+    font-size: 15px;
+}
+.commentCount{
+    margin-right: 10px;
+    border-bottom: 1px dashed gray;
+    cursor: pointer;
 }

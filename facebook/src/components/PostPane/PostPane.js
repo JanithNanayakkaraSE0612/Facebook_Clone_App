@@ -7,6 +7,10 @@ export default function PostPane() {
     <div className='PostPaneBox'>
       <AddPost/>
       <Post/>
+      <Post/>
+      <Post/>
+      <Post/>
+      <Post/>
     </div>
   )
 }

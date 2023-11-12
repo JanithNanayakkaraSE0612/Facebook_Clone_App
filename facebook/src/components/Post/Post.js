@@ -14,7 +14,15 @@ export default function Post() {
                 <div className="postCaption">Hellow I am Batman..! You understand..? I am Batman..!!</div>
                 <img src="/images/janith.jpg" alt="" className="postedImage" />
             </div>
-            <div className="postBottom"></div>
+            <div className="postBottom">
+                <div className="postBottomleft">
+                    <img src="" alt="" className="readctionPic" />
+                    <img src="" alt="" className="readctionPic" />
+                    <img src="" alt="" className="readctionPic" />
+                    <span className="likeCount">Batman and 225 other</span>
+                </div>
+                    <div className="postBottomRight"></div>
+            </div>
        </div>
     </div>
   )

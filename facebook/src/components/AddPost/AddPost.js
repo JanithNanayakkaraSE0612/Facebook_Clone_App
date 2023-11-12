@@ -17,22 +17,25 @@ export default function AddPost() {
                <div className="addPostBottom">
                     <div className="addPostOptions">
                         <div className="addPostOption">
-                        <PhotoCameraBackIcon className='addPhoto'/>
+                        <PhotoCameraBackIcon htmlColor='orange' className='addPhoto'/>
                         <span className="addPhotoOptionText">Add Photo/Video</span>
                         </div>
                         <div className="addPostOption">
-                        <AddLocationAltIcon className='addPhoto'/>
+                        <AddLocationAltIcon htmlColor='red' className='addPhoto'/>
                         <span className="addPhotoOptionText">Add Location</span>
                         </div>
                         <div className="addPostOption">
-                        <LocalOfferIcon className='addPhoto'/>
+                        <LocalOfferIcon htmlColor='blue' className='addPhoto'/>
                         <span className="addPhotoOptionText">Add Tag</span>
                         </div>
                         <div className="addPostOption">
-                        <LiveTvIcon className='addPhoto'/>
+                        <LiveTvIcon htmlColor='tomato' className='addPhoto'/>
                         <span className="addPhotoOptionText">Go Live</span>
                         </div>
                     </div>
+                        <div className="postButton">
+                            Post
+                        </div>
                </div>
         </div>
     </div>

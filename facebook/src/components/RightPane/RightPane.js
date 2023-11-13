@@ -15,9 +15,18 @@ in partnership with all the leading commercial distribution companies.
             </span>
           </div>
             <div className="birthdayContainer">
-              <img src="/images/bir.jpg" alt="" className="birthdayImage" />
+              <img src="/images/gift.png" alt="" className="birthdayImage" />
               <span className="birthdayText"><b>Janith Nanayakkara</b>and <b>2 others</b> 
               havin g birthday today..!</span>
+            </div>
+            <div className="friendList">
+              <li className="onlineFriend">
+                <div className="onlineFriendImageContainer">
+                  <img src="/images/person1.jpeg" alt="" className="onlineFriendImg" />
+                  <span className="onlineStatus"></span>
+                </div>
+                <span className="onlineFriendName">Bald Kavindu Shehan</span>
+              </li>
             </div>
       </div>
     </div>

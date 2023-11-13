@@ -1,3 +1,23 @@
 .RightPaneBox{
     flex: 3;
 }
+.rightPaneContainer{
+    padding: 20px 20px 0 0;
+}
+.adContainer{
+    margin-top: 10px;
+    font-family: 'Open Sans','sans-serif';
+}
+.sponzerd{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(90, 65, 65);
+}
+.adImage{
+    margin-top: 10px;
+    border-radius: 5px;
+    width: 98%;
+}
+.birthdayContainer{
+    
+}

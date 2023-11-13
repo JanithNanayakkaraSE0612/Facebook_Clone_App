@@ -27,6 +27,48 @@ in partnership with all the leading commercial distribution companies.
                 </div>
                 <span className="onlineFriendName">Bald Kavindu Shehan</span>
               </li>
+              <li className="onlineFriend">
+                <div className="onlineFriendImageContainer">
+                  <img src="/images/person1.jpeg" alt="" className="onlineFriendImg" />
+                  <span className="onlineStatus"></span>
+                </div>
+                <span className="onlineFriendName">Bald Kavindu Shehan</span>
+              </li>
+              <li className="onlineFriend">
+                <div className="onlineFriendImageContainer">
+                  <img src="/images/person1.jpeg" alt="" className="onlineFriendImg" />
+                  <span className="onlineStatus"></span>
+                </div>
+                <span className="onlineFriendName">Bald Kavindu Shehan</span>
+              </li>
+              <li className="onlineFriend">
+                <div className="onlineFriendImageContainer">
+                  <img src="/images/person1.jpeg" alt="" className="onlineFriendImg" />
+                  <span className="onlineStatus"></span>
+                </div>
+                <span className="onlineFriendName">Bald Kavindu Shehan</span>
+              </li>
+              <li className="onlineFriend">
+                <div className="onlineFriendImageContainer">
+                  <img src="/images/person1.jpeg" alt="" className="onlineFriendImg" />
+                  <span className="onlineStatus"></span>
+                </div>
+                <span className="onlineFriendName">Bald Kavindu Shehan</span>
+              </li>
+              <li className="onlineFriend">
+                <div className="onlineFriendImageContainer">
+                  <img src="/images/person1.jpeg" alt="" className="onlineFriendImg" />
+                  <span className="onlineStatus"></span>
+                </div>
+                <span className="onlineFriendName">Bald Kavindu Shehan</span>
+              </li>
+              <li className="onlineFriend">
+                <div className="onlineFriendImageContainer">
+                  <img src="/images/person1.jpeg" alt="" className="onlineFriendImg" />
+                  <span className="onlineStatus"></span>
+                </div>
+                <span className="onlineFriendName">Bald Kavindu Shehan</span>
+              </li>
             </div>
       </div>
     </div>

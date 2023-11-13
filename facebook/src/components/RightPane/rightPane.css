@@ -1,5 +1,19 @@
 .RightPaneBox{
     flex: 3;
+    font-family: sans-serif;
+    height: calc(100vh - 50px);
+    overflow-y: scroll;
+    position: sticky;
+    top: 50px;
+}
+::-webkit-scrollbar{
+    width: 20px;
+}
+::-webkit-scrollbar-track{
+    background-color: gray;
+}
+::-webkit-scrollbar-thumb{
+    background-color:darkgrey;
 }
 .rightPaneContainer{
     padding: 20px 20px 0 0;
@@ -22,10 +36,14 @@
     display: flex;
     align-items: center;
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 .birthdayImage{
     height: 50px;
     width: 50px;
+    margin-top: 20px;
+}
+.birthdayText{
     margin-top: 20px;
 }
 .onlineFriend{
@@ -34,10 +52,31 @@
     list-style: none;
     display: flex;
     align-items: center;
+    -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.22); 
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.22);
+    border-radius: 10px;
+    margin-bottom: 10px;
 }
 .onlineFriendImg{
     widows: 40px;
     height: 40px;
     border-radius: 50%;
     object-fit: cover;
+}
+.onlineFriendImageContainer{
+    display: flex;
+    position: relative;
+}
+.onlineStatus{
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    background-color: lawngreen;
+    position: absolute;
+    top: 30px;
+    right: 0;
+    border: 2px solid white;
+}
+.onlineFriendName{
+    margin-left: 10px;
 }

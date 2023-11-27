@@ -66,8 +66,8 @@ export default function LeftPane() {
               <span className="pageName">newGeniusTechnology</span>
           </li>
           <li className="pageListItem">
-            <img src="/images/newgenius.png" alt="" className="pagePic" />
-              <span className="pageName">newGeniusTechnology</span>
+            <img src="/images/java.jpg" alt="" className="pagePic" />
+              <span className="pageName">JavaDevCode</span>
           </li>
           <li className="pageListItem">
             <img src="/images/newgenius.png" alt="" className="pagePic" />

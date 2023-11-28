@@ -6,14 +6,16 @@
     position: sticky;
     top: 50px;
   }
-::-webkit-scrollbar{
+  ::-webkit-scrollbar {
     width: 20px;
 }
-::-webkit-scrollbar-track{
+
+::-webkit-scrollbar-track {
     background-color: gray;
 }
-::-webkit-scrollbar-thumb{
-    background-color:darkgrey;
+
+::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
 }
 .leftPaneContainer{
     padding: 20px;

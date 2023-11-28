@@ -18,9 +18,9 @@ export default function Post() {
             </div>
             <div className="postBottom">
                 <div className="postBottomleft">
-                    <img src="/images/like.png" alt="" className="readctionPic" />
-                    <img src="/images/heart.png" alt="" className="readctionPic" />
-                    <img src="/images/haha.png" alt="" className="readctionPic" />
+                    <img src="/images/like1.png" alt="" className="readctionPic" />
+                    <img src="/images/heart1.png" alt="" className="readctionPic" />
+                    <img src="/images/haha2.png" alt="" className="readctionPic" />
                     <span className="likeCount">Batman and 225 other</span>
                 </div>
                     <div className="postBottomRight">

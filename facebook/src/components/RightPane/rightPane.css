@@ -1,19 +1,19 @@
 .RightPaneBox{
     flex: 3;
     font-family: sans-serif;
-    height: calc(100vh - 50px);
-    overflow-y: scroll;
+    /* height: calc(100vh - 50px);
+    overflow-y: scroll; */
     position: sticky;
     top: 50px;
 }
 ::-webkit-scrollbar{
-    width: 20px;
+    width: 15px;
 }
 ::-webkit-scrollbar-track{
-    background-color: gray;
+    background-color: #d1e5ff;
 }
 ::-webkit-scrollbar-thumb{
-    background-color:darkgrey;
+    background: linear-gradient(#642bff , #ff22e6);
 }
 .rightPaneContainer{
     padding: 20px 20px 0 0;

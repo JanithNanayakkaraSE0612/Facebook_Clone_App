@@ -1,11 +1,12 @@
 .RightPaneBox{
     flex: 3;
     font-family: sans-serif;
-    /* height: calc(100vh - 50px);
-    overflow-y: scroll; */
+    height: calc(100vh - 50px);
+    overflow-y: scroll;
     position: sticky;
     top: 50px;
 }
+
 ::-webkit-scrollbar{
     width: 15px;
 }
